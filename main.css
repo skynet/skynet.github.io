@@ -11,8 +11,10 @@ h1 {
 	font-size: 4em;
 	line-height: 1.2em;
 	padding: 0;
+	margin-left: -9999px;
 }
 
 h3 {
 	font-size: 2em;
+	margin-left: -9999px;
 }
